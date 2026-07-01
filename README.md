@@ -61,8 +61,8 @@ Rock-Paper-Scissors/
 ## 📸 Screenshot
 
 ![Rock Paper Scissors Screenshot](images/screenshot1.png)
-(images/screenshot2.png)
-(images/screenshot3.png)
+![Rock Paper Scissors Screenshot](images/screenshot2.png)
+![Rock Paper Scissors Screenshot](images/screenshot3.png)
 ```
 
 ---
